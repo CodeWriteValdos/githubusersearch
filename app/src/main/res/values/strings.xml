@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rivaldi / Cermati.com</string>
+    <string name="no_data">No Data</string>
+    <string name="hint_search">Search Github Users</string>
+    <string name="msg_empty_data">Empty Data</string>
+    <string name="empty_text">Empty Data</string>
+</resources>
